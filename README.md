@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋 I'm Tanish M  
 
-<!--
-**Tanish123-art/Tanish123-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year Computer Science and Engineering student at Sri Venkateswara College of Engineering.  
+💻 Passionate about **Web Development (MERN Stack and FARM stack)** and exploring **Machine Learning & AI**.  
+🚀 Love building real-world projects that combine **technology + creativity**.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently learning
+- Deepening my knowledge of **Node.js, FastAPI, and ML models**.  
+- Building strong fundamentals in **system design & scalable architectures**.  
+
+## ⚡ Technical Skills
+- **Languages:** Java, C++, Python, JavaScript  
+- **Frameworks & Tools:** React, Node.js, MongoDB, Firebase, GitHub  
+- **Special Interests:** AI-powered applications, Computer Vision, Chatbots  
+
+## 📫 How to reach me
+- 📧 Email: tanishmurugesan2@gmail.com
+- 💼 LinkedIn: [Tanish M](https://www.linkedin.com/in/your-linkedin)  
+- 💻 GitHub: [Tanish123-art](https://github.com/Tanish123-art)  
+
+✨ *“Always learning, always building.”*  
