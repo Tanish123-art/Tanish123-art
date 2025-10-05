@@ -17,6 +17,5 @@
 ## 📫 How to reach me
 - 📧 Email: tanishmurugesan2@gmail.com
 - 💼 LinkedIn: [Tanish M](https://www.linkedin.com/in/your-linkedin)  
-- 💻 GitHub: [Tanish123-art](https://github.com/Tanish123-art)  
 
 ✨ *“Always learning, always building.”*  
