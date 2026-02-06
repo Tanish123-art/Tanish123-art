@@ -18,4 +18,4 @@
 - 📧 Email: tanishmurugesan2@gmail.com
 - 💼 LinkedIn: [Tanish M](https://www.linkedin.com/in/your-linkedin)  
 
-✨ *“Always learning, always building.”*  
+ *“Always learning, always building.”*  
